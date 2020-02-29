@@ -1,0 +1,9 @@
+/.idea/
+/config.py
+/output.txt
+/log.txt
+/error_log.txt
+/console.txt
+/stderr.txt
+/email_list.txt
+/email_list_*.txt
